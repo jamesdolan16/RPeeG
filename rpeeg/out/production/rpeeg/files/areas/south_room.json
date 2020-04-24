@@ -1,0 +1,14 @@
+{
+	"id":"south_room",
+	"map":[
+		"# #########",
+		"#          ",
+		"###########"
+	],
+	"doors":[
+		{"id":"south_room_n", "pos":[1,0]},
+		{"id":"south_room_door_e", "pos":[10,1]}
+	],
+	"items":[],
+	"actors":[]
+}

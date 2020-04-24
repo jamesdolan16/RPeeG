@@ -1,0 +1,19 @@
+{
+	"id":"main_room",
+	"map":[
+		"# ############",
+		"#        #   #",
+		"#        # # #",
+		"#          # #",
+		"############ #"
+	],
+	"doors":[
+		{"id":"main_room_n", "pos":[1,0]}, 
+		{"id":"main_room_s", "pos":[12,4]},
+	],
+	"items":[
+		{"id":"test_sword", "pos":[1,3]},
+		{"id":"test_gold", "pos":[12,1]}
+	],
+	"actors":[]
+}
