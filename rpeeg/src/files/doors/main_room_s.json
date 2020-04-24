@@ -1,0 +1,5 @@
+{
+	"id":"main_room_s",
+	"destAreaID":"south_room",
+	"destCoord":[1,1]
+}
