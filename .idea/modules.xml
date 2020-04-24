@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rpeeg/rpeeg.iml" filepath="$PROJECT_DIR$/rpeeg/rpeeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpg/rpg.iml" filepath="$PROJECT_DIR$/rpg/rpg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rpgGithub.iml" filepath="$PROJECT_DIR$/.idea/rpgGithub.iml" />
+    </modules>
+  </component>
+</project>

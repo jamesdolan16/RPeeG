@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rpeeg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rpeeg/rpeeg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="rpeeg:jar">
+    <output-path>$PROJECT_DIR$/rpeeg_jar</output-path>
+    <root id="root">
+      <element id="archive" name="rpeeg.jar">
+        <element id="module-output" name="rpeeg" />
+      </element>
+      <element id="library" level="project" name="rpeeg" />
+      <element id="library" level="project" name="json-simple-1.1" />
+    </root>
+  </artifact>
+</component>

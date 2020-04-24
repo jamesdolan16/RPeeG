@@ -27,7 +27,7 @@ public class FileHandler {
 	
 	@SuppressWarnings("rawtypes")
 	public static ArrayList<String> LoadAreaList(ScreenDrawer out) {
-		String areaListPath = "src/files/areas/areaList.json";
+		String areaListPath = "files/areas/areaList.json";
 		ArrayList<String> toRet = new ArrayList<String>();
 		Object parseObj;
 		try {
@@ -84,7 +84,7 @@ public class FileHandler {
 	
 	@SuppressWarnings("rawtypes")
 	public static Area LoadArea(ScreenDrawer out, String areaID) {
-		String path = "src/files/areas/"+areaID+".json";
+		String path = "files/areas/"+areaID+".json";
 		Area toRet = new Area();
 		Object parseObj;
 		try {
@@ -134,7 +134,7 @@ public class FileHandler {
 	}
 	
 	public static Door LoadDoor(ScreenDrawer out, String doorID) {
-		String path = "src/files/doors/"+doorID+".json";
+		String path = "files/doors/"+doorID+".json";
 		Door toRet = new Door();
 		Object parseObj;
 		try {
@@ -158,7 +158,7 @@ public class FileHandler {
 	}
 	
 	public static Item LoadItem(ScreenDrawer out, String itemID) {
-		String path = "src/files/items/"+itemID+".json";
+		String path = "files/items/"+itemID+".json";
 		Item toRet = new Item();
 		Object parseObj;
 		try {

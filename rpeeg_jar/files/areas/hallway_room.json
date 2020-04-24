@@ -1,0 +1,15 @@
+{
+  "id":"hallway_room",
+  "map":[
+    "############",
+    "           #",
+    "############"
+  ],
+  "doors":[
+    { "id":"hallway_door_e", "pos":[0,1] }
+  ],
+  "items":[
+    { "id":"book_item", "pos":[10,1] }
+  ],
+  "actors":[]
+}
