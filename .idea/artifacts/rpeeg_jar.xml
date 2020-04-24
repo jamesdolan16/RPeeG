@@ -6,6 +6,7 @@
         <element id="module-output" name="rpeeg" />
       </element>
       <element id="library" level="project" name="rpeeg" />
+      <element id="library" level="project" name="json-simple-1.11" />
       <element id="library" level="project" name="json-simple-1.1" />
     </root>
   </artifact>

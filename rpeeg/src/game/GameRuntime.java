@@ -64,7 +64,7 @@ public class GameRuntime {
 		String playerCommand;
 		Timer timer = new Timer(true);
 		GameLoop gl = new GameLoop(out, world, player, viewKeys, run);
-		timer.scheduleAtFixedRate(gl, 0, 500);
+		timer.scheduleAtFixedRate(gl, 0, 200);
 		while(run){
 			//Just wait
 		}
